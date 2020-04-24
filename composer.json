@@ -1,0 +1,15 @@
+{
+    "name": "zhanxueshi/public",
+    "description": "Shared PHP library for zhanxueshi projects.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "public": "src"
+        }
+    }
+}
