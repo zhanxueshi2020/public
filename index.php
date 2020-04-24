@@ -1,2 +1,2 @@
 <?php
-echo 'zhanmin test packagist';
+echo '2020 zhanmin test packagist';
